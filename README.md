@@ -1,5 +1,5 @@
 
-# TG_AutomMssages
+# TG_AutoMssages
 a simple telethon bot that sends telegram messages automatically, every specifed amout of seconds
 
 **installation:**
